@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Wordcloud",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Wordcloud for Winston Churchill Speech - June 18, 1940"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "HumzaAsadKhan.github.io",
+    "title": "About Me",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a doctoral student and teaching assistant at the School of Economic, Political, and Policy Sciences at the University of Texas at Dallas. My research interests cover both political studies and data analytics. They include political economy, public policy, cyber security policy, and impacts of digital technology."
+  },
+  {
+    "objectID": "Interests.html",
+    "href": "Interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "• Research Design\n• Cyber Security Policy\n• Data Visualization\n• Data Methods\n• Survey Research"
   }
 ]
